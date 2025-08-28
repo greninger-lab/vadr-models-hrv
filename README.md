@@ -43,8 +43,8 @@ $VADRSCRIPTSDIR/miniscripts/fasta-trim-terminal-ambigs.pl --minlen 50 --maxlen 8
 ```        
 
 4. Run the `v-annotate.pl` program on an input trimmed fasta file with
-   HRV sequences using the recommended command below. In addition, <hrv-key>
-   must indicate the HRV species hrvA, hrvB or hrvC
+   HRV sequences using the recommended command below. In addition, you
+   must indicate the HRV species hrvA, hrvB or hrvC as \<hrv-key\>.
 ```
 v-annotate.pl -r --mkey <hrv-key> --mdir <hrv-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
 ```
