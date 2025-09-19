@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "hrvA.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "hrvA.vadr.protein.fa",
+  "number-of-letters": 45302,
+  "number-of-sequences": 21,
+  "last-updated": "2025-09-16T13:32:00",
+  "number-of-volumes": 1,
+  "bytes-total": 84861,
+  "bytes-to-cache": 45612,
+  "files": [
+    "hrvA.vadr.protein.fa.pdb",
+    "hrvA.vadr.protein.fa.phr",
+    "hrvA.vadr.protein.fa.pin",
+    "hrvA.vadr.protein.fa.pot",
+    "hrvA.vadr.protein.fa.psq",
+    "hrvA.vadr.protein.fa.ptf",
+    "hrvA.vadr.protein.fa.pto"
+  ]
+}
