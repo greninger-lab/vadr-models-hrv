@@ -1,4 +1,4 @@
-MODEL hrvC blastdb:"hrvC.vadr.protein.fa" cmfile:"hrvC.cm" group:"HRV" subgroup:"C" length:"7258"
+MODEL hrvC blastdb:"hrvC.vadr.protein.fa" cmfile:"hrvC.cm" group:"HRV" subgroup:"C" length:"7240"
 FEATURE hrvC type:"gene" coords:"684..7127:+" parent_idx_str:"GBNULL" gene:"POLY"
 FEATURE hrvC type:"CDS" coords:"684..7127:+" parent_idx_str:"GBNULL" gene:"POLY" product:"polyprotein"
 FEATURE hrvC type:"mat_peptide" coords:"684..884:+" parent_idx_str:"1" gene:"POLY" product:"1A" note:"VP4"
