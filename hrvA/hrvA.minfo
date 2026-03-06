@@ -1,6 +1,12 @@
+<<<<<<< hrvc-serotype-expansion
 MODEL hrvA blastdb:"hrvA.vadr.protein.fa" cmfile:"hrvA.cm" group:"HRV" subgroup:"A" length:"7274"
 FEATURE hrvA type:"gene" coords:"661..7152:+" parent_idx_str:"GBNULL" gene:"POLY"
 FEATURE hrvA type:"CDS" coords:"661..7152:+" parent_idx_str:"GBNULL" gene:"POLY" product:"polyprotein"
+=======
+MODEL hrvA blastdb:"hrvA.vadr.protein.fa" cmfile:"hrvA.cm" group:":FILE:hrvA.stk" subgroup:":FILE:hrvA.stk" length:"7240" lowsim_exc:"118..137:+"
+FEATURE hrvA type:"gene" coords:"647..7120:+" parent_idx_str:"GBNULL" gene:"POLY"
+FEATURE hrvA type:"CDS" coords:"647..7120:+" parent_idx_str:"GBNULL" gene:"POLY" product:"polyprotein"
+>>>>>>> main
 FEATURE hrvA type:"mat_peptide" coords:"647..853:+" parent_idx_str:"1" gene:"POLY" product:"1A" note:"VP4"
 FEATURE hrvA type:"mat_peptide" coords:"854..1642:+" parent_idx_str:"1" gene:"POLY" product:"1B" note:"VP2"
 FEATURE hrvA type:"mat_peptide" coords:"1643..2356:+" parent_idx_str:"1" gene:"POLY" product:"1C" note:"VP3"
