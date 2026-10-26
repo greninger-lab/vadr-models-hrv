@@ -6,7 +6,7 @@
   "description": "hrvC.fa",
   "number-of-letters": 7280,
   "number-of-sequences": 1,
-  "last-updated": "2026-03-06T13:39:00",
+  "last-updated": "2026-10-26T12:43:00",
   "number-of-volumes": 1,
   "bytes-total": 38885,
   "bytes-to-cache": 1926,
