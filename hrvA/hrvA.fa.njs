@@ -6,7 +6,7 @@
   "description": "hrvA.fa",
   "number-of-letters": 7240,
   "number-of-sequences": 1,
-  "last-updated": "2025-09-17T13:19:00",
+  "last-updated": "2026-10-26T05:36:00",
   "number-of-volumes": 1,
   "bytes-total": 38875,
   "bytes-to-cache": 1916,
